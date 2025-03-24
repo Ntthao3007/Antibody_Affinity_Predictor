@@ -18,7 +18,7 @@ After training the contrastive model, train the affinity predictor:
 python scripts/train_predictor.py
 ```
 
-### Combined Training
+### Full Training
 
 Run full training pipeline:
 
